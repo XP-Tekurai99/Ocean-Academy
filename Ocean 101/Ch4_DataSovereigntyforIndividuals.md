@@ -1,3 +1,5 @@
+# Chapter 4: Data Sovereignty for Individuals
+
 ## Private User Data.
 The potential of the unstructured and unshared data of individuals is huge.
 Think about all those mobile phone users who have hundreds of pictures that could be used to train algorithms.
