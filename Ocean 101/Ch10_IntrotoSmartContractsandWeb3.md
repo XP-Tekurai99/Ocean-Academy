@@ -7,6 +7,8 @@ It may involve one or more people and transactions. A Smart Contract will automa
 For example, a coin flip can easily be programmed in a Smart Contract: “If heads, you win our 5$ bet, if tails, I win the bet”.
 The program is run on the blockchain, which makes it a neutral ground for all parties involved, and it cannot be cheated.
 
+![image](https://user-images.githubusercontent.com/110959584/194779897-b2f2bcfc-dce3-4865-a023-c1c6544486b9.png)
+
 Smart Contracts are especially useful for managing data workflows across people, teams, and companies, because they run in a way that is 100% deterministic.
 This means that once the Smart Contract is deployed, it will run exactly as agreed when the conditions are triggered.
 
@@ -27,6 +29,7 @@ Web3 is an awesome new space because it has no central point, no owners, and no 
 It’s called Web3 because it’s an evolution of the internet since its beginning. The Web3 internet is built on fundamentally different infrastructure,
 relying on blockchains and distributed peer-to-peer networks, rather than on server-client relationships.
 
+![image](https://user-images.githubusercontent.com/110959584/194779916-39933eb4-f091-4af7-972f-bad625444020.png)
 
 The Web 2.0  introduced the possibility for users to add their own content to blogs, profile pages and then to social networks.
 Central entities monetize user data to provide ‘free’ accounts and services on their platforms. This has evolved in what leading academics
