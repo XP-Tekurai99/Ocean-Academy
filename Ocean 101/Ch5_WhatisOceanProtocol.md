@@ -16,23 +16,26 @@ Ocean Protocol provides a complete toolbox for data owners, data scientists and 
 
 The Ocean Protocol toolbox offers:
 
-### Tools and libraries.
+### Tools and Libraries.
 Smart Contracts, libraries, and software components to publish and consume data services, build marketplaces, and develop other apps to privately and securely publish, exchange, and consume data. The Compute-to-Data feature is a core component of secure data exchanges.
  
-### Standards to interact with data.
+### Standards to Interact with Data.
 The standardization of data-related assets and their metadata is key to enable large scale collaboration and the creation of an open and effective data market.
 
-#### Definitions.
-An asset is the representation of different types of resources in Ocean Protocol. Typically an asset could be one of the following asset types:
+ #### Definitions.
+ An asset is the representation of different types of resources in Ocean Protocol. Typically an asset could be one of the following asset types:
  
-##### Dataset.
-An asset representing a dataset or data resource. It could be for example a CSV file or multiple JPG files.
-##### Algorithm.
-An asset representing a piece of software. It could be a python script using TensorFlow, a spark job, etc.
+  ##### Dataset.
+  An asset representing a dataset or data resource. It could be for example a CSV file or multiple JPG files.
+  
+  ##### Algorithm.
+  An asset representing a piece of software. It could be a python script using TensorFlow, a spark job, etc.
 
-Metadata is stored in a blockchain context efficiently. Information encompasses the name of the data asset, description, owner, price, and other details like category, tags, creation and update dates, etc. It can also provide a sample of the data.
+  ##### Metadata is Stored in a Blockchain Context Efficiently.
+  Information encompasses the name of the data asset, description, owner, price, and other details like category, tags, creation and update dates, etc. It can also       provide a sample of the data.
 
-Web3 access control. Traditional access control uses centralized intermediaries, where data owners risk losing control of their data. Ocean Protocol restores control and privacy by replacing the centralized intermediaries with a decentralized blockchain network.
+  ##### Web3 Access Control.
+  Traditional access control uses centralized intermediaries, where data owners risk losing control of their data. Ocean Protocol restores control and privacy by         replacing the centralized intermediaries with a decentralized blockchain network.
 
 ## Visual of a Full Market Place
 
