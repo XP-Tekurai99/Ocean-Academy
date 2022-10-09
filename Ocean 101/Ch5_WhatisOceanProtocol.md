@@ -31,10 +31,10 @@ The standardization of data-related assets and their metadata is key to enable l
   ##### Algorithm.
   An asset representing a piece of software. It could be a python script using TensorFlow, a spark job, etc.
 
-  ##### Metadata is Stored in a Blockchain Context Efficiently.
+  #### Metadata is Stored in a Blockchain Context Efficiently.
   Information encompasses the name of the data asset, description, owner, price, and other details like category, tags, creation and update dates, etc. It can also       provide a sample of the data.
 
-  ##### Web3 Access Control.
+  #### Web3 Access Control.
   Traditional access control uses centralized intermediaries, where data owners risk losing control of their data. Ocean Protocol restores control and privacy by         replacing the centralized intermediaries with a decentralized blockchain network.
 
 ## Visual of a Full Market Place
