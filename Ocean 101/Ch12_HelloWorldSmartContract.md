@@ -39,6 +39,7 @@ Line 4 contains the actual logic of the function.
 
 This Smart Contract only returns the string “hello world” and it does not use the passed string argument at all.
 
+![image](https://user-images.githubusercontent.com/110959584/194821492-51b13ff8-9df6-476f-a43a-90c7e272192a.png)
 
 ## Life of a Smart Contract
 Once complete, the Solidity code needs to be compiled to bytecode and deployed on the Ethereum blockchain.
