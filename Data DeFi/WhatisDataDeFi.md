@@ -13,12 +13,13 @@ The purpose of a datatoken is similar to traditional access tokens (OAuth 2.0 - 
 
 Decentralized Finance, or DeFi, refers to a number of tools and applications providing financial services through smart contracts rather than intermediaries. This is why it is also called bankless finance. There are many types of such Decentralized Apps (dApps) currently in existence in the DeFi space, covering a wide array of services:
 
-Web3 wallet (i.e. bank account)
-Decentralized exchanges
-Lending and borrowing platforms
-Leveraged trading platforms
-Insurance funds
-Decentralized proof of identity (access to apps and services)
+- Web3 wallet (i.e. bank account)
+- Decentralized exchanges
+- Lending and borrowing platforms
+- Leveraged trading platforms
+- Insurance funds
+- Decentralized proof of identity (access to apps and services)
+
 DeFi tools are sometimes referred to as “money legos” because they can be assembled together to create new financial products & services, or complex financial engineering systems.
 
 Data + DeFi: an explosive combination
@@ -27,12 +28,11 @@ We’ve seen that (i) datatokens are a representation of data access to a datase
 Datatokens create a bridge between data, data services and DeFi, with which data and data services can be seamlessly integrated into all financial products and services in the DeFi space. This offers tremendous opportunities to bring advanced financial tools to data science. You can think of instant data exchanges, data insurances, crowdsourcing your data-driven project or company, or call options on data.
 Since datatokens can be held, transferred, exchanged and traded with any Web3 software or device, all of these DeFi dApps mentioned earlier work with datatokens:
 
-Web3 wallets turn into data wallets
-Exchanges become data marketplaces
-Lending platforms can now allow datatokens to be borrowed/used as collateral
-Insurance can be provided on data and data services
-
-Market prices can be discovered for data and data services in real-time
+- Web3 wallets turn into data wallets
+- Exchanges become data marketplaces
+- Lending platforms can now allow datatokens to be borrowed/used as collateral
+- Insurance can be provided on data and data services
+- Market prices can be discovered for data and data services in real-time
 
 This innovation creates “data legos”; any existing dApp can work to serve our new asset class.
 
