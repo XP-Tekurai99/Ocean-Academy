@@ -22,6 +22,7 @@ The more complete you make the description and specifications of your dataset, t
 Ocean Market enables markdown language to make your description look great, and a preview is provided if need be (markdown cheatsheet).
 Markdown allows to add style and pictures to make it look professional; this is an important signal of quality for the dataset.
 
+![image](https://user-images.githubusercontent.com/110959584/196006704-fe8cd6e7-270b-40a5-84c0-a102071a3443.png)
 
 # Make Your Data Accessible.
 The data should be accessible through a URL. Files can be hosted anywhere as long as no extra authentication
@@ -31,6 +32,8 @@ only the metadata and the encrypted URL are. As you can see in this example of t
 In addition to the full dataset, it is strongly encouraged to provide a separate URL pointing to sample data, so that anyone can preview the
 data and its structure before making a purchase decision. Watch-out: the URL provided can not be changed later on, so you need to get it right if
 you ever want to update your data in the future.
+
+![image](https://user-images.githubusercontent.com/110959584/196006713-ee7ce312-63ca-410c-8809-49bfee4d8dfb.png)
 
 In its current form, only direct data download is deployed on Ocean Protocol, but there will be an opportunity to opt for Compute-to-data when this
 is implemented in the Ocean Market (a refresher is available in Ocean 101 chapters 17 and 20).
@@ -44,10 +47,12 @@ Get a cool name for the datatoken that you will be creating. It is generated ran
 
 Tags will help prospective buyers find relevant datasets. Just like with metadata, making good quality tags can make a difference. Add the author name in the field.
 
+![image](https://user-images.githubusercontent.com/110959584/196006727-71f0493b-56bd-46e5-b554-788583318d54.png)
 
 Once you have filled-in the entire page and signed the Terms & Conditions, you are ready to create your datatoken. Connect your Web3 wallet and submit,
 you will need to approve some operations with your wallet as Ocean smart contracts are deploying your datatoken to Ethereum.
 
+![image](https://user-images.githubusercontent.com/110959584/196006732-6645bdf5-1c04-4887-8c81-53e897e991e6.png)
 
 # Now, You can Choose Your Revenue Model.
 Just click on “Create Pricing” for the last step of your dataset deployment on the Ocean Marketplace.
@@ -59,9 +64,13 @@ In the Ocean Market, two ways of selling data have been programmed:
 Fixed pricing. You set your price for the data in OCEAN. Ocean Market creates a datatoken in the background with a value equal to the dataset
 price in OCEAN so that buyers do not have to even know about the datatoken. They pay the amount specified in OCEAN for access.
 
+![image](https://user-images.githubusercontent.com/110959584/196006746-23383a54-a5ca-4cb5-a1d5-acbab4e0257f.png)
+
 Dynamic pricing. You let the market define the price with a mechanism derived from Decentralized Finance (DeFi) with liquidity pools.
 While you set a base price for the token in OCEAN, the market will organically discover the right price for your data. This can be extremely handy when the
 value of the data is not known.
+
+![image](https://user-images.githubusercontent.com/110959584/196006791-49354671-6234-4b3c-aae3-958f7f116ce9.png)
 
 Behind the scenes, a decentralized automated market maker (AMM) is deployed for every dataset. The automated market maker is implemented using Balancer,
 an AMM protocol used for price discovery, with the help of a liquidity pool that holds Ocean tokens and datatokens.
@@ -79,6 +88,8 @@ It ensures that there is enough datatoken supply in the market in the case that 
 Swap fee: the fee collected by the liquidity pool with each transaction. A low fee will encourage data usage but may lead to volatility due to quick speculation, a
 high fee will encourage long term liquidity provision, as pool shareholders will be rewarded, but may artificially inflate the price of the dataset
 (fees are added to the pool in OCEAN).
+
+![image](https://user-images.githubusercontent.com/110959584/196006806-09a710d9-f9c5-41b3-80da-c0d7fafd6b14.png)
 
 Once the token is created, the entire supply of the datatoken resides in the market. Users will have to buy the datatoken from the market in order to access the
 data or data service.
