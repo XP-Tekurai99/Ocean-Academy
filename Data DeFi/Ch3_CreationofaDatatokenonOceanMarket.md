@@ -24,7 +24,7 @@ Markdown allows to add style and pictures to make it look professional; this is 
 
 ![image](https://user-images.githubusercontent.com/110959584/196006704-fe8cd6e7-270b-40a5-84c0-a102071a3443.png)
 
-# Make Your Data Accessible.
+# Make Your Data Accessible
 The data should be accessible through a URL. Files can be hosted anywhere as long as no extra authentication
 is needed on the host platform; it could be on AWS, Google Drive, IPFS, your own website, etc. The data is never stored on the blockchain,
 only the metadata and the encrypted URL are. As you can see in this example of token creation, no personally identifiable information is stored on the blockchain
@@ -54,7 +54,7 @@ you will need to approve some operations with your wallet as Ocean smart contrac
 
 ![image](https://user-images.githubusercontent.com/110959584/196006732-6645bdf5-1c04-4887-8c81-53e897e991e6.png)
 
-# Now, You can Choose Your Revenue Model.
+# Now, You can Choose Your Revenue Model
 Just click on “Create Pricing” for the last step of your dataset deployment on the Ocean Marketplace.
 
 Ocean Protocol supports many ways to sell data and data services; anyone can create their own smart contract to interact with Ocean Protocol.
